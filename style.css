@@ -1,0 +1,49 @@
+.star{
+color: red;
+}
+.terms{
+    color: orange;
+    font-style: italic;
+}
+table,tr,td{
+    border: 2px solid darkgray;
+    border-collapse: collapse;
+}
+#country {
+    color: darkgray;
+    width: 80%;
+}
+#state{
+    width: 60%;
+}
+#zip{
+    background-color: gainsboro;
+}
+#isd{
+    width: 85%;
+}
+#declaration{
+    width: 30%;
+}
+#verification{
+    width:15%
+
+}
+#copies{
+    width:3%
+}
+#enclose1{
+    width:90%
+}
+#enclose2{
+    width: 80%;
+}
+#enclose3{
+    width: 80%;
+}
+#enclose4{
+    width: 20%;
+}
+#dsc{
+    width: 15%;
+}
